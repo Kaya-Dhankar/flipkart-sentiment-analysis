@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore frontend
+flipkart-frontend/
+
+# Ignore dataset if not needed
+flipkart_data.csv
