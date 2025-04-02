@@ -1,0 +1,8 @@
+Flask
+textblob
+langdetect
+deep-translator
+pandas
+nltk
+flask-cors
+gunicorn

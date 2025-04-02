@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv
+pyvenv.cfg
+__pycache__/
+
+# Ignore frontend (if not needed)
+node_modules/
+package-lock.json
+package.json
+
+# Ignore dataset (if not needed)
+flipkart_data.csv
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
