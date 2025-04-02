@@ -11,7 +11,6 @@ A machine learning-based web application that analyzes sentiment from Flipkart p
 - Review summarization to highlight key points
 - User-friendly interface
 
-## Installation
 
 ### Prerequisites
 - Python 3.9 or higher
